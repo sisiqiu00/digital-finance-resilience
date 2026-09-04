@@ -1,0 +1,33 @@
+# macOS / local history
+.DS_Store
+._*
+__MACOSX/
+.Rhistory
+.RData
+.Rproj.user/
+
+# Stata logs / generated session files
+*.log
+*.smcl
+*.gph
+*.ster
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.out
+*.synctex.gz
+*.toc
+
+# Generated HTML
+_readme.html
+
+# Backup / temporary files
+*~
+*.tmp
+*.bak
+*.old
+*_original
