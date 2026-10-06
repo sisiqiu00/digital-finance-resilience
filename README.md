@@ -1,6 +1,6 @@
-# Digital Financial Access and Economic Resilience — Replication Package
+# Digital Finance and Economic Resilience — Replication Package
 
-Replication code, archived raw input data, and generated output for **"[A Sign, Not a Magnitude: Digital Financial Access and Economic Resilience in the COVID-19 Crisis](https://www.dropbox.com/scl/fi/yqikkgj5ddi72zqkf2qtx/digital_finance_resilience.pdf?rlkey=a7s67336w6eh80fx214br4wnq&st=bvxfwvnx&dl=0)"** by Xinchen "Sisi" Qiu.
+Replication code, archived raw input data, and generated output for **"[A Sign, Not a Magnitude: Digital Finance and Economic Resilience in the COVID-19 Crisis](https://www.dropbox.com/scl/fi/yqikkgj5ddi72zqkf2qtx/digital_finance_resilience.pdf?rlkey=a7s67336w6eh80fx214br4wnq&st=bvxfwvnx&dl=0)"** by Xinchen "Sisi" Qiu.
 
 The scripts run entirely from local files in this repository; they do **not** download data from any API.
 
