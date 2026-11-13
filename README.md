@@ -39,7 +39,7 @@ The master script configures project paths automatically and runs the four analy
 
 To run an individual analysis script on its own, run `_config.do` first.
 
-A few benign, non-fatal messages may appear in the log (for example from `ivreg2, first`); they do not affect the produced tables or figures.
+A few benign messages may appear in the log (for example from `ivreg2, first`); they do not affect the produced tables or figures.
 
 ## Raw data
 
